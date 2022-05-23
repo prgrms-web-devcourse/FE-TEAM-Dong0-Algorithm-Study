@@ -91,6 +91,8 @@ PR에서 코드리뷰를 한다.
 | 난이도 | 문제 이름 |
 |:------:|:---------:|
 | <img width="52" alt="스크린샷 2022-05-12 오후 6 26 08" src="https://user-images.githubusercontent.com/72402747/168038666-cbe7f994-be88-4d05-bce8-8fa6b7c1fb66.png">| [조이스틱풀이](https://programmers.co.kr/learn/courses/30/lessons/42860)|
+| <img width="52" alt="스크린샷 2022-05-12 오후 6 26 08" src="https://user-images.githubusercontent.com/72402747/168038666-cbe7f994-be88-4d05-bce8-8fa6b7c1fb66.png">| [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)|
+
 
 
 
